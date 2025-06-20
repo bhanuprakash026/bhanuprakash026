@@ -12,7 +12,7 @@
       <ul>
         <li>🔭 Currently working as a <strong>Full Stack Developer</strong> with a strong focus on <strong>Frontend (MERN)</strong></li>
         <li>🌱 Deep diving into <strong>Microservices & Prisma</strong></li>
-        <li>⚙️ Love working with <strong>CI/CD, Jenkins, Docker, Kubernetes & AWS</strong></li>
+        <li>⚙️ Currently Learning <strong>CI/CD, Jenkins, Docker, Kubernetes & AWS</strong></li>
         <li>👨‍💻 Passionate about building <strong>scalable, high-performance web applications</strong></li>
         <li>📫 Reach me via: <a href="https://www.linkedin.com/in/bhanu-prakash-tankasala/">LinkedIn</a> | <a href="https://bhanuprakash-portfolio.vercel.app/">Portfolio</a></li>
       </ul>
